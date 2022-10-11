@@ -1,10 +1,10 @@
 /* Put your decoration here */
-.btn-custom{
+.btn-custom {
   padding: 7px 15px;
   border-radius: 10px;
   font-size: 14px;
-  color: #FFFFFF;
-  background-color: #FF731D;
-  border: 1px solid #FF731D;
+  color: #ffffff;
+  background-color: #ff731d;
+  border: 1px solid #ff731d;
   cursor: pointer;
 }
