@@ -8,3 +8,23 @@
   border: 1px solid #FF731D;
   cursor: pointer;
 }
+
+.btn-custom:hover{
+  background-color: royalblue;
+  color: white;
+  transition: 0.5s;
+  border: none;
+}
+
+.wrap-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+.text{
+  font-size: 80px;
+  font-weight: 700;
+  font-family: 'Courier New', Courier, monospace;
+}
